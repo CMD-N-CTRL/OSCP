@@ -1,2 +1,2 @@
 # OSCP
-A collection of study Material used in preperation for the OSCP Certification.
+A collection of study Material used in preparation for the OSCP Certification.
