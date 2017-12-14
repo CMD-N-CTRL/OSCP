@@ -1,6 +1,6 @@
-## Recon
-
-
+###############################################################
+#                       Nmap Scans                            #
+###############################################################
 ```
 Always start with a stealthy scan to avoid closing ports.
 
@@ -23,3 +23,4 @@ nc -u INSERTIPADDRESS 48772
 # Monster scan
 nmap INSERTIPADDRESS -p- -A -T4 -sC
 ```
+###############################################################
