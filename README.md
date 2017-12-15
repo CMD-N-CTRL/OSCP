@@ -5,4 +5,4 @@ A collection of study Material used in preparation for the OSCP Certification.
 
 
 
-Stuff about it-security that might be good to know https://xapax.gitbooks.io/security
+A link to IT-Security topics that I found useful: https://xapax.gitbooks.io/security
